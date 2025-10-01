@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: j2735_202409
+Version: 0.1.0
+Summary: SAE J2735 2024-09 ASN.1 definitions for V2X communication
+Author: Will Martin
+License: Apache-2.0
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: pycrate>=0.7.11
+Dynamic: author
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
