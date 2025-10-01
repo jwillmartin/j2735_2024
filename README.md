@@ -6,6 +6,8 @@ This package contains auto-generated Python code from the SAE J2735 standard usi
 
 ## Installation
 
+**Note:** You may install using either of the following three methods:
+
 Install the package in development mode:
 
 ```bash
